@@ -6,6 +6,7 @@ export const THEMES = {
     muted: "#6b7280",
     border: "#e5e7eb",
     accent: "#2563eb",
+    font: "#ffffff",
   },
 
   Light: {
