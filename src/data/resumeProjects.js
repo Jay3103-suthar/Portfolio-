@@ -30,7 +30,7 @@ export const resumeProjects = [
     description:
       "System to manage insurance policies and users.",
     link: "https://tryangel-task.vercel.app/"
-  }
+  },
    {
     title: "Portfolio ",
     description:
