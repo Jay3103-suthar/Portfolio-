@@ -50,7 +50,7 @@ const TechStack = () => {
             whileHover={{
               scale: 1.06,
               backgroundColor: theme.accent,
-              color: "#fff",
+              color: theme.font,
               borderColor: theme.accent,
             }}
             transition={{ type: "spring", stiffness: 300 }}
