@@ -31,4 +31,10 @@ export const resumeProjects = [
       "System to manage insurance policies and users.",
     link: "https://tryangel-task.vercel.app/"
   }
+   {
+    title: "Portfolio ",
+    description:
+      "My personal portfolio website showcasing projects and skills.",
+    link: "https://portfolio-pi-amber-fzfwzmhydz.vercel.app/"
+  }
 ];
