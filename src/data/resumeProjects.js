@@ -36,5 +36,5 @@ export const resumeProjects = [
     description:
       "My personal portfolio website showcasing projects and skills.",
     link: "https://portfolio-pi-amber-fzfwzmhydz.vercel.app/"
-  }
+  },
 ];
