@@ -100,7 +100,7 @@ const ProfileCard = () => {
 
       {/* Resume */}
       <motion.a
-        href={`${import.meta.env.BASE_URL}jay.pdf`}
+        href="/jay.pdf"
         download
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
